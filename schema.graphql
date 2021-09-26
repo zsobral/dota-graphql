@@ -1,0 +1,40 @@
+type Query {
+  heroes: [Hero]
+  hero(input: HeroInput!): Hero
+}
+
+type Hero {
+  id: Int!
+  name: String!
+  description: String!
+  lore: String!
+  bio: String!
+  image: String!
+  video: String!
+  thumbnail: String!
+  primaryAttribute: PrimaryAttribute!
+  attackType: AttackType!
+  abilities: [Ability!]!
+}
+
+type PrimaryAttribute {
+  id: ID!
+  name: String!
+  image: String!
+}
+
+type AttackType {
+  id: ID!
+  name: String!
+  image: String!
+}
+
+type Ability {
+  id: Int!
+  name: String!
+  image: String!
+}
+
+input HeroInput {
+  id: Int!
+}

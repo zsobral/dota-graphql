@@ -1,0 +1,62 @@
+{
+  "name": "dota-graphql",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "build:data": "node scripts/build-data.js",
+    "build:schema": "node scripts/generate-schema.js",
+    "test": "jest",
+    "lint-schema": "graphql-schema-linter schema.graphql",
+    "lint": "eslint . --ext .js",
+    "prettier": "prettier \"**/*.js\" --check",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zsobral/dota-graphql.git"
+  },
+  "keywords": [
+    "dota",
+    "graphql"
+  ],
+  "author": "Mateus Sobral Monteiro <mateus@mateus.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zsobral/dota-graphql/issues"
+  },
+  "homepage": "https://github.com/zsobral/dota-graphql#readme",
+  "dependencies": {
+    "apollo-datasource": "^3.1.0",
+    "apollo-server": "^3.3.0",
+    "apollo-server-core": "^3.3.0",
+    "graphql": "^15.6.0"
+  },
+  "devDependencies": {
+    "axios": "^0.21.4",
+    "eslint": "^7.32.0",
+    "get-port": "^5.1.1",
+    "graphql-schema-linter": "^2.0.1",
+    "husky": "^7.0.2",
+    "jest": "^27.2.2",
+    "lint-staged": "^11.1.2",
+    "nodemon": "^2.0.13",
+    "ora": "^5.4.1",
+    "prettier": "^2.4.1"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix --max-warnings 0",
+      "prettier --write"
+    ],
+    "*.json": "prettier --write",
+    "schema.graphql": "graphql-schema-linter"
+  },
+  "engines": {
+    "node": "14.x",
+    "npm": "7.x"
+  }
+}
