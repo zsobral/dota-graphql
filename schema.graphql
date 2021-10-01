@@ -12,18 +12,17 @@ type Hero {
   image: String!
   video: String!
   thumbnail: String!
-  primaryAttribute: PrimaryAttribute!
   attackType: AttackType!
+  primaryAttribute: PrimaryAttribute!
   abilities: [Ability!]!
 }
 
-type PrimaryAttribute {
-  id: ID!
-  name: String!
-  image: String!
+enum AttackType {
+  MELEE
+  RANGED
 }
 
-type AttackType {
+type PrimaryAttribute {
   id: ID!
   name: String!
   image: String!
