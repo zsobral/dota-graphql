@@ -22,10 +22,10 @@ enum AttackType {
   RANGED
 }
 
-type PrimaryAttribute {
-  id: ID!
-  name: String!
-  image: String!
+enum PrimaryAttribute {
+  STRENGTH
+  AGILITY
+  INTELLIGENCE
 }
 
 type Ability {

@@ -7,14 +7,10 @@
     "lore": "Should Anti-Mage have the opportunity to gather his full strength, few can stop his assaults. <b>Draining mana</b> from enemies with every strike or <b>teleporting short distances</b> to escape an ambush, cornering him is a challenge for any foe.",
     "description": "Slashes his foes with mana-draining attacks",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/antimage.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/antimage.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5003,
@@ -66,14 +62,10 @@
     "lore": "One after another, Axe cuts down his foes. Marching ahead of his team, he <b>locks his enemies in battle</b> then counters their blows with a <b>deadly spin</b> of his weapon. Slamming his <b>culling blade</b> through a weakened enemy, he is always charging onward.",
     "description": "Taunts and forces enemies to attack him",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/axe.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/axe.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/axe.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5007,
@@ -117,14 +109,10 @@
     "lore": "Bane brings terror to his enemies with his arsenal of <b>disabling abilities</b>. Whether trapping a foe within a contagious nightmare, or gripping an enemy in place, he gives allies all the time they need to slay their enemy.",
     "description": "Puts his enemies to sleep, incapacitating them",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bane.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bane.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bane.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5012,
@@ -168,14 +156,10 @@
     "lore": "Bloodseeker forces difficult decisions on his enemies. Able to drive his foes to a retreat by bathing a large area with a <b>damaging ritual</b>, his gruesome ultimate asks his opponents to <b>hold still, or die.</b>",
     "description": "Chases down low health enemies with increased speed",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bloodseeker.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bloodseeker.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5015,
@@ -219,14 +203,10 @@
     "lore": "Able to keep her <b>allies supplied with mana</b> as she <b>slows down enemies</b> to ensure a kill, Crystal Maiden is a helpful addition to any team. And, when the opportunity arises, she can unleash her <b>massive ultimate ability</b> to devastate her foes.",
     "description": "Unleashes a high damage blizzard upon her foes",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/crystal_maiden.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/crystal_maiden.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/crystal_maiden.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5126,
@@ -270,14 +250,10 @@
     "lore": "Not many can escape Drow Ranger once she's within range. After her foes have been <b>silenced</b> with a <b>chilling blast</b>, she finishes them off with a barrage of <b>slowing, ice-tipped arrows</b> that few can survive.",
     "description": "Slows with her frost-tipped arrows",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/drow_ranger.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/drow_ranger.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/drow_ranger.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5019,
@@ -321,14 +297,10 @@
     "lore": "Whether <b>blocking an enemy's escape</b>, dividing their forces, or <b>shattering the ground</b> beneath gathered foes, Earthshaker is at his best when he strikes without warning. Whatever survives the <b>aftershocks</b> still has a swing from his <b>mighty totem</b> to look forward to.",
     "description": "Disrupts enemy team with his chain stuns",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earthshaker.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earthshaker.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earthshaker.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5023,
@@ -372,14 +344,10 @@
     "lore": "In a <b>flurry of slashes</b>, Juggernaut cuts down his foes. Sprinting and <b>spinning into battle</b> with reckless abandon, and nearly invincible once he is able to begin his assault, stopping Juggernaut can often be just as difficult as surviving him.",
     "description": "Slices through his enemies with precise strikes",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/juggernaut.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/juggernaut.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/juggernaut.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5028,
@@ -431,14 +399,10 @@
     "lore": "As she takes aim from a distance with her <b>deadly arrow</b>, Mirana must always be ready to leap into battle. Able to <b>shield her allies</b> from the eyes of her enemies, she ensures that her team is always on the prowl.",
     "description": "Stuns enemies with precise arrows from afar",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/mirana.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mirana.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mirana.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5051,
@@ -482,14 +446,10 @@
     "lore": "<b>Capturing souls</b> from every kill he makes, Shadow Fiend is always gathering his power. Every assault, each carefully aimed raze that kills an enemy, brings him closer to <b>unleashing his gathered souls</b> in a deadly blast of scouring energy.",
     "description": "Unleashes the souls of fallen enemies for damage",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nevermore.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nevermore.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5059,
@@ -533,14 +493,10 @@
     "lore": "Shifting his attributes to suit his situation, Morphling can be as <b>elusive</b> as he is deadly. Whether <b>riding a wave</b> to flank an enemy, or boosting his health before escaping into his <b>deceptive replication</b>, few can hope to corner him.",
     "description": "Rides the waves to flank enemies",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/morphling.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/morphling.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/morphling.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5052,
@@ -600,14 +556,10 @@
     "lore": "Phantom Lancer storms enemy forces with an <b>endless supply of clones</b>. Leading his illusory army, he can cut foes apart in a breathtaking <b>flurry of attacks</b>, send clones to push into enemy territory, or use his doppelgangers to <b>mislead and elude foes</b> if cornered.",
     "description": "Creates illusions of himself to trick or attack foes",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phantom_lancer.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_lancer.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_lancer.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5065,
@@ -651,14 +603,10 @@
     "lore": "Puck has a talent for confounding its enemies with playfully <b>elusive</b> mischief. By teleporting to its <b>damaging orb</b> in order to hop short distances, it attacks foes with bursts of <b>silencing dust</b>. By the time its enemies can react, Puck has long since escaped.",
     "description": "Orbs to enemies and silences them",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/puck.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/puck.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/puck.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5069,
@@ -702,14 +650,10 @@
     "lore": "Each carefully aimed throw of Pudge's <b>signature hook</b> strikes fear into his foes. <b>Pulling</b> his enemies near to carve them with his cleavers, he gains <b>additional health and damage</b> with every kill, and soon becomes an unstoppable killer.",
     "description": "Hooks and pulls enemies towards him",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pudge.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pudge.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5075,
@@ -761,14 +705,10 @@
     "lore": "With a deadly <b>lightning storm</b> at his command, Razor charges into battle. Deploying a <b>sweeping ring</b> of electrified plasma to fry his enemies, he links with foes to <b>drain</b> them of their power and use it against them.",
     "description": "Steals enemy damage to add to his own",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/razor.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/razor.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/razor.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5082,
@@ -812,14 +752,10 @@
     "lore": "Not many can survive an ambush from Sand King. Demolishing everything around him with waves of <b>deadly vibration</b> from his ultimate, he <b>evades counterattacks</b> by hiding himself in a scouring gust of sand, and <b>stuns foes</b> by striking them from beneath.",
     "description": "Burrows to stun and slow enemies",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sand_king.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sand_king.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sand_king.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5102,
@@ -863,14 +799,10 @@
     "lore": "Storm Spirit is never one to miss a fight. <b>Zipping</b> from across the battlefield in a bolt of lightning, he strikes enemies from every direction with <b>exploding remnants</b> and <b>charged attacks</b>, then disappears while his enemies are still scrambling to react.",
     "description": "Zips across the map to engage in fights",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/storm_spirit.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/storm_spirit.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/storm_spirit.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5098,
@@ -914,14 +846,10 @@
     "lore": "Sven is always eager to charge into a fight. He <b>stuns grouped enemies</b> as he wades into battle, and once he ignites his <b>damage-boosting ultimate</b>, a few swings of his massive sword are often more than enough to slay his foes.",
     "description": "Cleaves down enemies with his incredible strength",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sven.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sven.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sven.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5094,
@@ -965,14 +893,10 @@
     "lore": "Growing to <b>tremendous size and strength</b> as the battle progresses, Tiny's power can quickly become terrifying. He <b>tosses heroes and creeps</b> at his enemies, or <b>stuns</b> them beneath an avalanche. Should he gather his full strength, he can demolish the enemy's base with ease.",
     "description": "Grows in size and strength as battle ensues",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tiny.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tiny.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5106,
@@ -1032,14 +956,10 @@
     "lore": "Vengeful Spirit's presence is felt at all times, whether she is alive or dead. Able to <b>swap positions</b> with any nearby hero, <b>stun enemies</b>, and reduce her killer's effectiveness if she falls, she constantly brings confusion and chaos to her foes.",
     "description": "Can swap herself with any nearby hero",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/vengefulspirit.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/vengefulspirit.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/vengefulspirit.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5122,
@@ -1083,14 +1003,10 @@
     "lore": "<b>Evasive and swift</b>, the nimble Windranger is always seeking the right angle to attack. Whether she's clearing the way with a draw of her <b>deadly powershot</b>, or <b>shackling enemies together</b> to pepper them with arrows, she's always on the move.",
     "description": "Fires swift flurry of arrows at a single target",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/windrunner.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/windrunner.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/windrunner.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5130,
@@ -1142,14 +1058,10 @@
     "lore": "None can hide from Zeus, whether he's calling down a bolt to <b>reveal the surroundings</b>, sending an arc coursing through his nearest enemies, or summoning a <b>terrifying volley of lightning</b> upon all enemies. Wherever his foes are, Zeus will find them.",
     "description": "Strikes enemies near and far with lightning",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/zuus.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/zuus.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/zuus.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5110,
@@ -1209,14 +1121,10 @@
     "lore": "Kunkka is always predicting where his enemies will go next. Able to attack a location with a <b>geyser of water</b> or a <b>ghostly shipwreck</b>, should his aim prove true, he and his allies will have no trouble cleaning up whatever is left.",
     "description": "Disrupts enemy positioning and disables them",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/kunkka.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/kunkka.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/kunkka.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5031,
@@ -1276,14 +1184,10 @@
     "lore": "As deadly as she is fragile, Lina effortlessly strikes down any foe foolish enough to be caught alone. Gaining <b>attack speed</b> with each spell she casts, she scours enemies with <b>flame and heat lightning</b>, ensuring few can survive her assaults.",
     "description": "Increases attack and speed with every spell",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lina.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lina.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lina.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5040,
@@ -1327,14 +1231,10 @@
     "lore": "Drifting from battle to battle and <b>sacrificing creeps</b> to fuel his assaults, Lich is always ready to help his fellow heroes destroy their enemies with <b>slowing frost</b>. Should his foes be foolish enough to gather, his <b>bouncing ultimate</b> will ensure their demise.",
     "description": "Unleashes a powerful attack that bounces between enemies",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lich.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lich.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lich.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5134,
@@ -1386,14 +1286,10 @@
     "lore": "Lion gives enemies little chance to retaliate. <b>Stunning targets</b> with a damaging row of spikes, or temporarily <b>transforming them into a harmless critter</b>, even if his powerful spells aren't enough, he and his allies should still have all the time they need to slay their foes.",
     "description": "Steals enemy mana to fuel his own abilities",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lion.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lion.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lion.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5044,
@@ -1437,14 +1333,10 @@
     "lore": "Shadow Shaman quickly clears the way for his team's forces to march on the enemy base. Blasting enemies with <b>shocking spells</b> and <b>interrupting attackers</b> with hexes, his powerful <b>serpent wards</b> destroy enemy defenses with ease.",
     "description": "Summons powerful serpent wards to deal damage",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shadow_shaman.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_shaman.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_shaman.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5078,
@@ -1488,14 +1380,10 @@
     "lore": "Ready to find and demolish his foes, Slardar quickly slithers into battle. After <b>exposing an enemy's position</b> and shattering their defenses, he closes the distance to lock them in place with crushing blows and powerful bashes from his trident.",
     "description": "Chases down his enemies to weaken and bash them",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/slardar.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slardar.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slardar.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5114,
@@ -1539,14 +1427,10 @@
     "lore": "Stalking ahead of his team, Tidehunter is always on the lookout for the <b>right time to strike</b>. When the moment comes, he unleashes his massive and devastating ultimate, paving the way for his allies to slay their <b>stunned enemies.</b>",
     "description": "Durable hero who shrugs off enemy damage",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tidehunter.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tidehunter.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tidehunter.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5118,
@@ -1590,14 +1474,10 @@
     "lore": "Witch Doctor is <b>whatever his team needs him to be</b>. Whether aiding his team with <b>gradual healing</b>, <b>stunning and cursing foes</b> to ensure a kill, or destroying enemies himself with a dance by his mighty ultimate, few can match Witch Doctor's <b>versatility.</b>",
     "description": "Channels a high damage death ward",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/witch_doctor.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/witch_doctor.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/witch_doctor.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5138,
@@ -1649,14 +1529,10 @@
     "lore": "Riki stalks the battlefield, <b>unseen</b> by the enemy. He chooses his moment carefully and bursts forth in a puff of <b>silencing smoke</b>, stabbing at his foes before they even know he's there.",
     "description": "Remains permanently invisible until the moment to strike",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/riki.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/riki.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/riki.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5142,
@@ -1708,14 +1584,10 @@
     "lore": "Widely feared for his ultimate ability, Enigma can <b>summon a black hole</b> capable of entrapping enemy forces, so that allies can then destroy them. An ever-present contingent of <b>eidolons at his side</b>, he pummels foes with ranged attacks.",
     "description": "Traps and damages enemies in a black hole",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enigma.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enigma.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5146,
@@ -1759,14 +1631,10 @@
     "lore": "Tinker demolishes foes with <b>swarms of machines</b> and a host of <b>deadly gadgets</b>. If he can gather the resources he needs, the power that instantly <b>refreshes his abilities</b> enables him to lead his team from every front.",
     "description": "Demolishes his enemies with swarms of machines",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tinker.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tinker.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5150,
@@ -1826,14 +1694,10 @@
     "lore": "<b>Death from a distance</b> is Sniper's specialty. He keeps his enemies on their toes with a steady barrage of firepower, and then, when the time is right, picks them off with a <b>kill shot.</b>",
     "description": "Picks off his enemies from afar",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sniper.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/sniper.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5154,
@@ -1885,14 +1749,10 @@
     "lore": "Wherever Necrophos goes, enemies wither as allies thrive. <b>Restoring health</b> to his friends and harming enemies with each <b>death pulse</b>, once his very presence has eaten away at an enemy, he <b>summons the reaper</b> to lengthen their stay in the afterlife.",
     "description": "Damages enemies and heals allies simultaneously",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/necrolyte.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/necrolyte.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/necrolyte.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5158,
@@ -1944,14 +1804,10 @@
     "lore": "Summoning forth his <b>demonic golem</b>, Warlock brings ruin to enemies and destroys their defenses. Yet even without his golem, his <b>dark spells</b> can still wreak havoc, whether <b>healing allies</b> and <b>harming enemies</b> with a word, or binding foes together to share their agony.",
     "description": "Summons powerful demons to fight at his side",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/warlock.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/warlock.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/warlock.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5162,
@@ -1995,14 +1851,10 @@
     "lore": "Summoning a <b>poison-spitting boar</b> and a <b>scouting hawk</b> to aid his hunt, Beastmaster never stalks the battlefield unprepared. Chopping through the forest with his axes, his <b>stunning roar</b> opens the way for his allies to devastate enemies.",
     "description": "Summons beasts to aid his hunt",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/beastmaster.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/beastmaster.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/beastmaster.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5168,
@@ -2062,14 +1914,10 @@
     "lore": "Queen of Pain strikes without warning, destroying gathered foes with <b>deafening screams</b>. Should an enemy survive her onslaught, she <b>slows</b> their escape with a <b>throw of her dagger</b> before finishing them off.",
     "description": "Blinks in to deal massive magical damage",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/queenofpain.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/queenofpain.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/queenofpain.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5173,
@@ -2113,14 +1961,10 @@
     "lore": "Venomancer brings slow death to his enemies. Sprouting an <b>endless army of toxin-spitting watchers</b> to defend his territory, should foes draw near he can release a massive <b>cloud of lingering poison</b> to weaken enemies.",
     "description": "Deals damage over time with venomous attacks",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/venomancer.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/venomancer.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/venomancer.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5178,
@@ -2164,14 +2008,10 @@
     "lore": "Time is everything to Faceless Void. He speeds time to <b>dash between locations</b>, manipulates it to <b>dodge attacks</b>, stops it in a large area to devastate his foes, and given enough of it to gather resources, he can make himself unbelievably powerful.",
     "description": "Can freeze his enemies in time",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/faceless_void.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/faceless_void.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/faceless_void.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5182,
@@ -2223,14 +2063,10 @@
     "lore": "Striding fearlessly toward his enemies, Wraith King <b>stuns his foes</b> and slashes them into submission. Should his enemies gain the upper hand, his <b>self-resurrecting ultimate</b> ensures he'll have another chance to swing his sword.",
     "description": "Can reincarnate instantly upon death",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/skeleton_king.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skeleton_king.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skeleton_king.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5086,
@@ -2274,14 +2110,10 @@
     "lore": "When she unleashes her <b>army of ghosts</b>, Death Prophet excels at <b>demolishing enemies</b> and their defenses alike. Leading her team's forces toward the enemy base with wave after damaging wave from her <b>swarm</b>, her onslaught can seem unstoppable.",
     "description": "Summons an army of ghosts to attack",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/death_prophet.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/death_prophet.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/death_prophet.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5090,
@@ -2325,14 +2157,10 @@
     "lore": "The moment she finds her prey, Phantom Assassin strikes. Instantly closing in on a target, she effortlessly <b>dodges attacks</b> as she relentlessly cuts away at her foe. Without warning, any one of her attacks could prove suddenly and <b>brutally fatal.</b>",
     "description": "Blinks onto her foes with critical strikes",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phantom_assassin.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_assassin.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phantom_assassin.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5190,
@@ -2384,14 +2212,10 @@
     "lore": "A crafty trickster, Pugna turns the enemy's power against itself as he blasts their defenses. While his <b>nether ward</b> strikes nearby foes that dare to cast a spell, he <b>drains life</b> from enemies to ensure he will be ready for the next assault.",
     "description": "Drains enemy life to heal himself",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pugna.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pugna.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pugna.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5186,
@@ -2435,14 +2259,10 @@
     "lore": "Peppering the battlefield with <b>slowing traps</b>, Templar Assassin <b>hides invisibly</b>, ready to ambush her prey. Once she springs her attack, she shreds enemies with piercing psionic blades, and <b>deflects counterattacks</b> with her refracting shield.",
     "description": "Slows down enemies with traps",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/templar_assassin.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/templar_assassin.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/templar_assassin.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5194,
@@ -2494,14 +2314,10 @@
     "lore": "Launching <b>deadly poison from a distance</b>, Viper poses a grave threat to whomever he targets. As his various toxins <b>eat away at an enemy's health</b> and <b>slow their movement</b>, Viper simply does what he does best: he keeps adding more poison.",
     "description": "Poisonous toxins chip away armor and slow enemies",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/viper.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/viper.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/viper.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5218,
@@ -2545,14 +2361,10 @@
     "lore": "<b>Riding swiftly</b> into battle, Luna tears into her enemies with attacks able to <b>bounce between targets</b>. When foes threaten, she calls down <b>the power of the moon</b> as a single searing beam or as a <b>lunar barrage</b>, crushing those who stand against her.",
     "description": "Tears into her enemies with bouncing attacks",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/luna.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/luna.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/luna.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5222,
@@ -2596,14 +2408,10 @@
     "lore": "When he takes on his terrifying <b>dragon form</b>, Dragon Knight strikes fear into any who face him. <b>Strong and adaptable</b>, he can <b>stun</b> his enemies and <b>burn</b> all in front of him, often providing his allies the momentum they need to carry them to victory.",
     "description": "Transforms into a formidable ranged dragon",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dragon_knight.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dragon_knight.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dragon_knight.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5226,
@@ -2655,14 +2463,10 @@
     "lore": "Born to support his cohorts in battle, Dazzle <b>keeps wounded allies alive</b> so they might later rain death upon the enemy. His <b>strange magic</b> weaves its way into <b>nearby armor</b>, weakening enemies and strengthening friends.",
     "description": "Powerful healer who can briefly prevent death",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dazzle.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dazzle.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dazzle.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5233,
@@ -2706,14 +2510,10 @@
     "lore": "Launching himself into enemies with his <b>grappling hookshot</b>, Clockwerk isolates targets and blasts them apart with <b>disorienting shrapnel</b>. As he scouts the battlefield with his <b>handy flares</b>, he never has trouble finding targets to send himself toward.",
     "description": "Launches himself into enemies with his hookshot",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rattletrap.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rattletrap.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rattletrap.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5237,
@@ -2773,14 +2573,10 @@
     "lore": "Leshrac's powerful spells lay waste to enemies and their defenses alike. Pushing deep into enemy territory with his <b>devastating edict</b>, careful timing of his ability to split the earth will <b>stun foes</b>, allowing his merciless allies to finish them off.",
     "description": "Can deal heavy damage in an aura around himself",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/leshrac.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/leshrac.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/leshrac.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5241,
@@ -2832,14 +2628,10 @@
     "lore": "Whether in the thick of battle or gathering resources for his next assault, Nature's Prophet seems to be everywhere. <b>Teleporting</b> at will to any location and instantly creating an <b>army of violent trees</b> to fight for him, he attacks where enemies least expect.",
     "description": "Able to teleport to any location on the map at will",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/furion.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/furion.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/furion.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5245,
@@ -2883,14 +2675,10 @@
     "lore": "Should Lifestealer get close to his prey, there is little that can save them. Travelling within a creep or an allied hero, once he nears a foe he explodes from his host body, <b>surprising enemies</b> and tearing into them with his <b>claws.</b>",
     "description": "Infests other units for mobility and strength",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/life_stealer.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/life_stealer.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/life_stealer.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5249,
@@ -2942,14 +2730,10 @@
     "lore": "Versatile and strategic, Dark Seer excels at <b>manipulating the positions</b> of his enemies. <b>Vacuuming foes</b> into the attacks of his allies, he can turn enemy strength against itself by pulling foes through his <b>replicating wall.</b>",
     "description": "Pulls and manipulates his enemies' positions",
     "attackType": 1,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_seer.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_seer.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_seer.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5255,
@@ -3001,14 +2785,10 @@
     "lore": "When Clinkz stalks <b>invisibly</b> through the battlefield, none are safe from ambush. <b>Swift of foot and arrow</b>, he rains fiery death upon his foes, calling upon an army of blazing compatriots to <b>bolster his assault.</b>",
     "description": "Stalks invisibly to ambush lone enemies",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/clinkz.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/clinkz.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/clinkz.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5259,
@@ -3060,14 +2840,10 @@
     "lore": "A guardian at the <b>front lines</b> of battle, Omniknight is always eager to join his team in battle. Whether <b>healing an ally</b> with a spell that also harms nearby foes, or battering an enemy with his <b>mighty hammer</b>, he protects his allies from harm. ",
     "description": "Tanky frontliner who protects and heals his allies",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/omniknight.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/omniknight.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/omniknight.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5263,
@@ -3119,14 +2895,10 @@
     "lore": "Harmful up close and lethal at a distance, Enchantress <b>skewers foes</b> with attacks imbued to become more damaging the further they fly. Whether inflicting <b>powerful slows</b> on her enemies or <b>charming forest creatures</b> to fight her battles, she is never short of tools to win a fight.",
     "description": "Enchants neutral creeps to do her bidding",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enchantress.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enchantress.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/enchantress.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5270,
@@ -3178,14 +2950,10 @@
     "lore": "As his health lowers, Huskar's ability to slay enemies grows considerably. Able to <b>instantly remove a portion of both his and an enemy's health</b> with his ultimate, when near death he is able to throw his burning spears with <b>devastating speed</b>.",
     "description": "Sacrifices his health to deal more damage",
     "attackType": 2,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/huskar.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/huskar.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/huskar.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 7300,
@@ -3229,14 +2997,10 @@
     "lore": "Once the sun goes down, Night Stalker's hunt begins. Charging through the shadowy forests, he snares prey in a <b>slowing void</b> as he tears them to shreds. Should sunrise threaten to end his terror, he can <b>darken the skies</b> to extend his onslaught.",
     "description": "Enpowered by the shadows of nightfall",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/night_stalker.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/night_stalker.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/night_stalker.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5275,
@@ -3280,14 +3044,10 @@
     "lore": "Gliding along her webs, Broodmother births an <b>army of spiders</b> to lead her team's forces toward the enemy base. As prey wanders near, she joins her children and attacks, <b>slowing foes</b> with incapacitating bites as she indulges her insatiable hunger.",
     "description": "Hunts with her army of spiderlings",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/broodmother.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/broodmother.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/broodmother.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5282,
@@ -3339,14 +3099,10 @@
     "lore": "Sneaking <b>invisibly</b> at the heels of his enemies, Bounty Hunter is always keeping track of his foes. Whenever one of his targets falls in battle, he and his allies stand to <b>make quite a profit</b>.",
     "description": "Loots and collects bounties off of his enemies",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bounty_hunter.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bounty_hunter.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bounty_hunter.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5285,
@@ -3390,14 +3146,10 @@
     "lore": "Weaver has no trouble <b>evading enemies</b> to position himself for another strike. Slipping in and out of sight, he avoids death by <b>rewinding himself to an earlier position and health state</b>. His arsenal of elusive skills ensures he is always a critical nuisance to his foes.",
     "description": "Rewinds time to reverse damage and position",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/weaver.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/weaver.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/weaver.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5289,
@@ -3441,14 +3193,10 @@
     "lore": "Jakiro is their own best friend. Not content to merely punish enemies with <b>fire</b>, the twins <b>freeze them in place</b> to force them to stand there and burn. With foes aflame, they turn to <b>inflicting massive damage</b> on enemy structures with their liquid fire.",
     "description": "Freezes and burns enemies with magic",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/jakiro.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/jakiro.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/jakiro.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5297,
@@ -3500,14 +3248,10 @@
     "lore": "Once he takes to the skies, Batrider can strike from any direction. Snatching a foe with his <b>lasso</b>, he soars above the treetops, pulling his prey through a <b>trail of flame</b> as he drags them before his merciless allies.",
     "description": "Can lasso an enemy away from his team",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/batrider.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/batrider.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/batrider.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5320,
@@ -3551,14 +3295,10 @@
     "lore": "Converting the creatures of the forest to his cause, Chen leads his <b>makeshift armies</b> to aid his team in battle. He assaults enemies with beasts while sending friends to safety. Then, when things seem darkest, he <b>heals his allies</b> wherever they may be.",
     "description": "Converts creeps to his cause, building an army",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chen.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chen.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chen.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5328,
@@ -3602,14 +3342,10 @@
     "lore": "Spectre haunts her enemies wherever they may be. Able to <b>destroy lone prey</b> with ease, she spreads her presence throughout the battlefield to choose her target. Once she has gathered her strength, none can escape her terrible wrath.",
     "description": "Haunts her enemies and teleports to her target",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spectre.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spectre.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spectre.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5334,
@@ -3661,14 +3397,10 @@
     "lore": "One way or another, Doom <b>shuts down his enemies</b>. Devouring creeps to claim the various skills they had in life, he can place a <b>lingering silence</b> upon a foe's spells and items with his ultimate as he <b>torches his foes</b>.",
     "description": "Can prevent a single enemy from using abilties and items",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/doom_bringer.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/doom_bringer.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/doom_bringer.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5339,
@@ -3712,14 +3444,10 @@
     "lore": "Able to launch a powerful blast of <b>damaging ice</b> across the battlefield, Ancient Apparition threatens to shatter weakened enemies wherever they are. Slowing enemies as he enhances his allies' effectiveness in battle, he is a constant threat to his foes.",
     "description": "Launches a powerful icy blast from anywhere on the map",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ancient_apparition.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ancient_apparition.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ancient_apparition.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5345,
@@ -3763,14 +3491,10 @@
     "lore": "<b>With each swipe of his claws</b>, Ursa increases his target's vulnerability to his next attack. Capable of briefly increasing how <b>swiftly</b> he can strike, and able to <b>slow down</b> nearby prey, he quickly tears apart his enemies.",
     "description": "Deals more damage with every hit to the same foe",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ursa.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ursa.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ursa.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5357,
@@ -3814,14 +3538,10 @@
     "lore": "<b>Highly mobile</b> and <b>always aggressive</b>, Spirit Breaker charges across the map to bring the fight to his enemies. With each bash of his heavy lantern, he knocks his foes senseless. His enemies may run, but with the help of a few wards, they cannot hide.",
     "description": "Charges down enemies from anywhere on the map",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spirit_breaker.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spirit_breaker.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/spirit_breaker.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5353,
@@ -3865,14 +3585,10 @@
     "lore": "With his arsenal of firepower at the ready, Gyrocopter soars into battle. Blasting all nearby enemies with shots from his <b>cannon</b> or hammering them with a <b>barrage of rockets</b>, if he is able to gather his full strength, he <b>demolishes foes with ease.</b>",
     "description": "Barrages with his cannon and homing missiles",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/gyrocopter.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/gyrocopter.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5361,
@@ -3916,14 +3632,10 @@
     "lore": "Synthesizing <b>extra resources</b> from each and every kill, Alchemist has no trouble gathering the tools needed to destroy his foes. Ambushing enemies with <b>corrosive acid</b> and a host of <b>unstable chemicals</b>, he battles to ensure his greedy escapades can remain uninterrupted.",
     "description": "Earns extra gold from unit kills and bounty runes",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/alchemist.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/alchemist.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5365,
@@ -3975,14 +3687,10 @@
     "lore": "With an intricate arsenal of <b>spells</b> at his disposal, Invoker can adapt to any battle situation. Each configuration of his <b>three spell components</b> yields of one of ten spells, meaning he's never without a way to destroy or escape his enemies.",
     "description": "Weaves magic with an array of spell combos",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/invoker.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/invoker.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5370,
@@ -4106,14 +3814,10 @@
     "lore": "Silencer changes the dynamic of every battle when he <b>shuts down the enemy's ability to cast their spells</b>. As he cuts his foes to ribbons with his glaive, he <b>steals their intelligence</b> to add to his own, ensuring his foes are always at a disadvantage.",
     "description": "Can silence all enemies on the map",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/silencer.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/silencer.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/silencer.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5377,
@@ -4157,14 +3861,10 @@
     "lore": "Stealing from the minds of those he imprisons, Outworld Destroyer turns raw intelligence into destructive power. <b>Weakening enemies</b> with a barrage of arcane energy, he shatters their sanity with his ultimate blast, often <b>erasing mana</b> from those that survive.",
     "description": "Can imprison a hero, making them invulnerable",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/obsidian_destroyer.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/obsidian_destroyer.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/obsidian_destroyer.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5391,
@@ -4208,14 +3908,10 @@
     "lore": "As a man or as a wolf, Lycan devastates enemies with sharp claws and deadly jaws. <b>Summoning stealthy wolves</b> to scout ahead or assault a foe, his wolf transformation grants him the <b>speed and strength</b> to run down his enemies, or escape an ambush.",
     "description": "Shapeshifts into a ferocious beast",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lycan.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lycan.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lycan.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5395,
@@ -4267,14 +3963,10 @@
     "lore": "A fearsome fighter in any situation, Brewmaster can turn the tide of battle by splitting into <b>three elemental spirits</b>, each with their own unique abilities. When not divided, he brings drunken chaos to his foes with <b>slowing claps</b> and powerful swings of his staff.",
     "description": "Splits into three elemental spirits with unique abilities",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/brewmaster.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/brewmaster.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/brewmaster.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5400,
@@ -4318,14 +4010,10 @@
     "lore": "Spewing <b>clouds of demonic poison</b> to damage enemies or scout the battlefield, few dare to approach Shadow Demon. <b>Banishing</b> an enemy as his allies gather for the kill, he can inflict demonic curses as he summons <b>traitorous illusions</b> to turn enemy strength against itself.",
     "description": "Stacks exponential poison damage against his foes",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shadow_demon.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_demon.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shadow_demon.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5421,
@@ -4369,14 +4057,10 @@
     "lore": "Battling alongside his <b>powerful spirit bear</b>, Lone Druid demolishes enemy forces and structures. Switching as needed between <b>ranged and melee attacks</b> with his transformation, should he have enough time to arm and strengthen both himself and his companion, there is little that can stop them.",
     "description": "Commands a powerful spirit bear in battle",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lone_druid.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lone_druid.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/lone_druid.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5412,
@@ -4420,14 +4104,10 @@
     "lore": "Chaos Knight is an army unto himself. Able to <b>summon a cavalry of clones</b> to demolish enemy defenses, should an enemy present itself, he can rift reality to <b>pull</b> him and his phantasms close enough to rain brutal cudgel blows upon their head.",
     "description": "Has strong but random damage output",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chaos_knight.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chaos_knight.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/chaos_knight.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5426,
@@ -4471,14 +4151,10 @@
     "lore": "By summoning up to five permanent copies of himself, Meepo can fight from every front at once. Spreading his clones throughout the battlefield, when an enemy is found, he binds his foe, gathers his selves with an <b>explosive teleport</b>, then buries what remains.",
     "description": "Five are stronger than one",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/meepo.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/meepo.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/meepo.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5430,
@@ -4530,14 +4206,10 @@
     "lore": "Treant Protector is ever the benevolent ally, sprouting <b>regenerating armor</b> for his cohorts and their fortifications alike. Emerging unseen from among the trees, he <b>binds foes</b> with overgrowth as he <b>leeches health</b> from enemies and into nearby allies.",
     "description": "Calls upon the forest to root his foes",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/treant.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/treant.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/treant.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 338,
@@ -4597,14 +4269,10 @@
     "lore": "With a chance to <b>multiply the outcome</b> of each spell they cast, a bit of <b>luck</b> is all Ogre Magi needs to burn enemies to cinder, or <b>boost the power of his allies</b>. Of course, luck can be difficult to rely upon...",
     "description": "Uses a touch of luck to amplify his skills",
     "attackType": 1,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ogre_magi.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ogre_magi.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ogre_magi.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5438,
@@ -4664,14 +4332,10 @@
     "lore": "Shambling into battle, Undying forces enemies to decide whether to flee his wrath or be torn apart by it. He <b>drains strength</b> from his foes, and <b>summons a horde of clawing undead</b>. When he finally becomes a <b>hulking flesh golem</b>, his enemies may already be overwhelmed.",
     "description": "Summons hordes of zombies to attack his foes",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/undying.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/undying.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/undying.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5442,
@@ -4715,14 +4379,10 @@
     "lore": "Always seeking a new <b>spell to steal</b>, Rubick is ever eager to turn an enemy's most unique advantage against them. <b>Snatching his enemies</b> into the air to fling them where he will, he has no trouble sowing chaos among careless foes.",
     "description": "Steals the spells of his enemies to use against them",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rubick.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rubick.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/rubick.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5448,
@@ -4766,14 +4426,10 @@
     "lore": "Disruptor excels at shattering the plans of his enemies. <b>Summoning impassable fences</b> to trap targets as he calls down a <b>silencing storm</b>, should a foe attempt something unexpected he simply <b>teleports them back</b> to their earlier location.",
     "description": "Traps and silences foes in his static storm",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/disruptor.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/disruptor.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5458,
@@ -4817,14 +4473,10 @@
     "lore": "Nyx Assassin is always hunting for fragile targets. Sneaking <b>invisibly</b> through the forest, when he spots his prey, he swipes them with his deadly claws and impales them on <b>stunning spikes</b>, then reverses any counterattack with his <b>reflecting carapace.</b>",
     "description": "Reflects enemy damage and stuns",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nyx_assassin.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nyx_assassin.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/nyx_assassin.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5462,
@@ -4876,14 +4528,10 @@
     "lore": "Sending squads of <b>mirrored clones</b> against her foes, Naga Siren ensnares and slays enemies as she leads her forces to victory. With the sound of her voice, she <b>disables nearby foes</b> to spring an ambush or crafting a hasty escape.",
     "description": "Able to capitivate and disable enemies with her song",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/naga_siren.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/naga_siren.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5467,
@@ -4927,14 +4575,10 @@
     "lore": "Keeper of the Light is a helpful addition to any team. <b>Manipulating the mana</b> of both his allies and enemies, he effortlessly destroys lesser foes with <b>waves of illumination</b>, then enters his spirit form to gather his team to press the assault.",
     "description": "Provides instant mana to allies",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/keeper_of_the_light.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/keeper_of_the_light.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/keeper_of_the_light.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5471,
@@ -5010,14 +4654,10 @@
     "lore": "Io has a talent for <b>making allies more effective</b>. A powerful companion, the wisp's tether <b>speeds allies and stops enemies</b>. Capable of linking to and <b>teleporting</b> across the battlefield with an ally, Io can make a dangerous ally even deadlier.",
     "description": "Links to its allies to buff them",
     "attackType": 2,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/wisp.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/wisp.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/wisp.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5485,
@@ -5077,14 +4717,10 @@
     "lore": "As his <b>deadly familiars</b> scout the field, Visage <b>cloaks himself in armor</b> and seeks the next battle. Once near a skirmish, he <b>gathers soul energy</b> from damage inflicted upon nearby fighters before releasing it in a devastating attack.",
     "description": "Scouts and attacks with his familiars",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/visage.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/visage.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/visage.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5480,
@@ -5136,14 +4772,10 @@
     "lore": "Pouncing into danger then slipping back out is what Slark does best. He rushes at the chance to <b>pin or corner a lone foe</b>, steals their essence with each cut from his dagger, and is always ready to vanish should the tables turn.",
     "description": "Slips in and out of skirmishes",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/slark.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slark.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/slark.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5494,
@@ -5195,14 +4827,10 @@
     "lore": "Constant attack is the key to Medusa's success. Using her <b>mana shield</b> to stave off assault, she employs <b>split shots</b> to mow down waves of enemies. Once she gathers her full strength, she becomes a force powerful enough to stop anyone in their tracks.",
     "description": "Immobilizes her enemies with her stone gaze",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/medusa.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/medusa.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/medusa.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5504,
@@ -5254,14 +4882,10 @@
     "lore": "Instantly able to swap between <b>ranged and melee attacks</b>, Troll Warlord is a formidable force at any distance. Axes in hand, he can strike in a storm of <b>spinning blades</b>. He takes down enemies with increasingly swift attacks, and can <b>speed his allies'</b> assaults wherever they are.",
     "description": "Swaps between ranged and melee attacks at will",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/troll_warlord.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/troll_warlord.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/troll_warlord.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5508,
@@ -5321,14 +4945,10 @@
     "lore": "Centaur Warrunner is a master of both <b>inflicting and absorbing damage</b>. Leading the charge into battle, he stomps to <b>stun his enemies</b>, and instantly <b>counters</b> their every attack. His stampede <b>speeds his allies</b> in both fight and flight, quickening the pace of the carnage.",
     "description": "Reflects damage back to his attackers",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/centaur.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/centaur.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/centaur.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5514,
@@ -5372,14 +4992,10 @@
     "lore": "Enemies who are foolish enough to gather learn to fear the horn of Magnus. Able to <b>pull nearby foes together</b>, he can batter them with <b>empowered attacks</b> or skewer them with his horn to bring them before his merciless allies.",
     "description": "Charges in to reposition his enemies",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/magnataur.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/magnataur.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/magnataur.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5518,
@@ -5431,14 +5047,10 @@
     "lore": "Elusive and unpredictable, Timbersaw <b>chops through the forest</b> to face his foes. Unleashing an arsenal of <b>saw blades</b> to cut enemies to pieces, he rides his chain into nearby trees and batters foes along the way.",
     "description": "Chops through the forest to face his foes",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shredder.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shredder.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shredder.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5524,
@@ -5498,14 +5110,10 @@
     "lore": "When it comes to a fight, Bristleback really puts his back into it. <b>Reducing all damage</b> arriving from the rear or from the sides, he wades into battle with barely a care, spraying enemies with <b>damaging quills</b> and <b>slowing snot.</b>",
     "description": "Takes reduced damage when facing away from enemies",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bristleback.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bristleback.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/bristleback.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5548,
@@ -5557,14 +5165,10 @@
     "lore": "Tusk is always eager to start a fight. Able to instantly corner an enemy with a <b>wall of ice shards</b>, he gathers with his allies and rolls into enemies inside of a <b>massive snowball</b>, bringing him in range to land his signature <b>knockout punch.</b>",
     "description": "Snowballs into his enemies to stun",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tusk.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tusk.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/tusk.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5565,
@@ -5624,14 +5228,10 @@
     "lore": "Deadly and fragile in equal measure, Skywrath Mage quickly destroys his enemies with a barrage of <b>powerful magic</b>. He <b>silences foes</b> while increasing their <b>vulnerability</b> to spells, meaning he has no trouble vaporizing any who stand against him.",
     "description": "Casts high damage magical spells on a single target",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/skywrath_mage.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skywrath_mage.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/skywrath_mage.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5581,
@@ -5675,14 +5275,10 @@
     "lore": "Able to transform enemy attacks into <b>self-healing</b>, Abaddon can survive almost any assault. <b>Shielding allies</b> and launching his <b>double-edged coil</b> at a friend or foe, he is always ready to ride into the thick of battle.",
     "description": "Shields his allies or himself from attacks",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/abaddon.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abaddon.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abaddon.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5585,
@@ -5726,14 +5322,10 @@
     "lore": "Scouting the way with his <b>astral spirit</b>, Elder Titan can strike from any direction. <b>Halting foes</b> with a stomp of his hoof while his presence <b>eats away at their defenses</b>, he splits the earth itself to bring his enemies low.",
     "description": "Damages and disables with his astral spirit",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/elder_titan.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/elder_titan.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/elder_titan.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5589,
@@ -5777,14 +5369,10 @@
     "lore": "Marching across the battlefield, Legion Commander <b>challenges lone enemies in single combat</b>. Each duel she wins increases the power of her attacks, until at last she can become a relentless one-woman army.",
     "description": "Increases power with each duel victory",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/legion_commander.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/legion_commander.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/legion_commander.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5595,
@@ -5828,14 +5416,10 @@
     "lore": "<b>Swift and elusive</b>, Ember Spirit strikes all nearby enemies in <b>rapid succession</b>, and ties them up with <b>burning chains</b>. Quickly rushing across the battlefield to arrive at one of his <b>exploding remnants</b>, few can avoid, or capture, his flame.",
     "description": "Rapidly strikes and chains his foes",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ember_spirit.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ember_spirit.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/ember_spirit.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5603,
@@ -5887,14 +5471,10 @@
     "lore": "Earth Spirit keeps the enemy in chaos and his friends in the fight. <b>Adapting</b> to any battle scenario, he can send his <b>statue remnants</b> back and forth to <b>damage foes</b>, or grips an ally from the jaws of death.",
     "description": "Disables and repositions his enemies",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earth_spirit.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/earth_spirit.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5608,
@@ -5954,14 +5534,10 @@
     "lore": "With Terrorblade, nothing is as it seems. Conjuring <b>powerful illusions</b> to confuse enemies and break their defenses, the demon marauder can <b>exchange health with foes and friends</b> to stave off death or weaken his enemies.",
     "description": "Transforms into a powerful ranged demon",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/terrorblade.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/terrorblade.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5619,
@@ -6021,14 +5597,10 @@
     "lore": "Diving into battle, Phoenix <b>blasts enemies</b> and <b>heals allies</b> with rays of solar flame. When the time is right, it can become a burning sun to scorch nearby foes before unleashing a <b>stunning detonation</b> that also restores Phoenix to full strength.",
     "description": "Heals and damages at the sacrifice of its own health",
     "attackType": 2,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phoenix.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phoenix.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/phoenix.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5623,
@@ -6072,14 +5644,10 @@
     "lore": "By carefully combining his <b>intricate abilities</b>, Oracle controls the destinies of both friend and foe. <b>Shrouding threatened allies</b> with his false promise, he can grant an ally a few precious moments of protection to destroy an enemy, or even <b>reverse a grisly fate.</b>",
     "description": "Alters the fates of heroes with his buffs and nukes",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/oracle.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/oracle.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/oracle.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5637,
@@ -6123,14 +5691,10 @@
     "lore": "For the Techies, battle is a matter of mischief. Giggling while they <b>lay their traps</b> throughout the battlefield, their <b>explosive mines, traps, and remote-activated bombs</b> are often more than enough to surprise careless foes or shatter an enemy offensive.",
     "description": "Surprises enemies with invisible landmines and traps",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/techies.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/techies.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/techies.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5599,
@@ -6190,14 +5754,10 @@
     "lore": "Winter Wyvern stalks the skies, <b>slowing foes</b> with burning cold as she soars over the battlefield. Should the enemy be foolish enough to gather, she <b>curses them</b> to attack one of their own as she blasts the gathering with <b>icy splinters.</b>",
     "description": "Able to force her enemies to attack their own ally",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/winter_wyvern.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/winter_wyvern.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/winter_wyvern.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 5651,
@@ -6241,14 +5801,10 @@
     "lore": "A splintered fragment of the same primordial power as the Ancients themselves, Zet the Arc Warden has pledged to see the clash between Radiant and Dire finally end. <b>Assault lone enemies</b> with fluxing energy, or distort space to generate a <b>protective field</b> around allies. <b>Summon a Spark Wraith</b> to patrol an area for enemies to infuse with harmful magic, then <b>create a double</b> of Zet, items and all, to overwhelm your foes.",
     "description": "Creates a copy of himself to split push",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/arc_warden.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/arc_warden.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5677,
@@ -6292,14 +5848,10 @@
     "lore": "Conjure waves of abyssal flame to immolate <b>enemies held paralyzed</b> in your spiteful grip. Feast upon the carnage of battle, <b>gaining strength</b> as foes perish around you, their attacks diminished by your very presence. Tear a rift in reality to <b>teleport</b> yourself and your teammates across the map, delivering bloody retribution to any who would defy the will of Vrogros the Underlord.",
     "description": "Teleports his team in and out of battle",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/abyssal_underlord.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abyssal_underlord.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/abyssal_underlord.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 5613,
@@ -6351,14 +5903,10 @@
     "lore": "Always in search of a good fight, Monkey King travels atop the trees aiming to spring from leafy cover and surprise his enemies. Calling upon an <b>army of monkey soldiers</b> to overwhelm opponents, this <b>agile trickster</b> revels in the chaos of battle, ready to slam his legendary staff down on any hopes of escape.",
     "description": "Springs from the cover of the tree tops",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/monkey_king.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/monkey_king.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/monkey_king.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 5716,
@@ -6402,14 +5950,10 @@
     "lore": "Eager to dash into danger at a moment's notice, the Pangolier thrives on <b>disrupting enemy movements</b> and placing himself in the midst of chaos. Artfully guiding his blade between cracks in armor and shrugging off attacks with his <b>protective scales</b>, this graceful swordsman is always ready to roll into battle.",
     "description": "Dashes and rolls in to disrupt enemy movements",
     "attackType": 1,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pangolier.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pangolier.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/pangolier.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 6344,
@@ -6461,14 +6005,10 @@
     "lore": "A slight flutter from the shadows may be all an enemy sees of Dark Willow, as she <b>eludes pursuit</b> and <b>controls her foe's movements</b> with cunning fae tricks. Calling upon powers far more ancient than any scholarly magic, she <b>binds enemies in place</b> before unleashing the full wrath and terror of the fae realm upon them.",
     "description": "Has an arsenal of disables at her disposal",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_willow.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_willow.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dark_willow.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 6339,
@@ -6520,14 +6060,10 @@
     "lore": "Skilled at manipulating battle from the outskirts, Grimstroke studies every movement and assesses each line, deciding when to emerge from inky darkness to <b>disable his victims</b> and <b>bind them together</b> with a swipe of his brush. He delights in unleashing phantom thralls to <b>vex opponents</b>, as he carefully considers how to dispatch multiple enemies with one fateful stroke.",
     "description": "Disables enemies with a swipe of his brush",
     "attackType": 2,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/grimstroke.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/grimstroke.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 8000,
@@ -6579,14 +6115,10 @@
     "lore": "The warrior deity Mars thrives in the heart of strife, guarded by the bulk of a <b>deadly shield</b> as he skewers enemies with his <b>legendary spear</b>. He revels in facing opponents in an arena ringed with loyal spearmen—who guarantee that no one escapes and that whatever odds he's facing, the god of war can <b>dictate the terms of battle</b> knowing the crowd is forever on his side.",
     "description": "Traps his foes in an inescapable arena",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/mars.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mars.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/mars.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 6583,
@@ -6630,14 +6162,10 @@
     "lore": "Privy to secrets that would shatter a mortal mind, the Void Spirit emerges from his Hidden Temple to stand guard over <b>multiple areas of the battlefield</b> at once. Able to step into and out of the mortal plane at will, he easily <b>outmaneuvers opponents</b> to strike from wherever he desires, calling upon the powers of the aether to <b>shield him</b> in times of need.",
     "description": "Steps in and out of the mortal plane to strike his foes",
     "attackType": 1,
+    "primaryAttribute": 2,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/void_spirit.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/void_spirit.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/void_spirit.png",
-    "primaryAttribute": {
-      "id": 2,
-      "name": "Intelligence",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_intelligence.png"
-    },
     "abilities": [
       {
         "id": 7701,
@@ -6681,14 +6209,10 @@
     "lore": "Just as happy to blow your legs off with her <b>trusty scattergun</b> as to fill your belly up with a <b>deliciously-dangerous cookie</b>, Beatrix Snapfire delights in riding into battle with her dragon toad Mortimer, always ready to mow down their enemies with her homemade heavy artillery or finish them off with a steady barrage of <b>Mortimer's firespit globs.</b>",
     "description": "Mows down her enemies with heavy artillery and trusty lizard",
     "attackType": 2,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/snapfire.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/snapfire.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/snapfire.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 6480,
@@ -6748,14 +6272,10 @@
     "lore": "Always at hand when trouble's afoot, Hoodwink lives to tangle with the threats that fill the haunted forest she adopted as her home. Toting a <b>massive crossbow</b> while still able to <b>scurry through the woodland</b> with the greatest of ease, Hoodwink is nearly impossible to keep tabs on in battle. Lose track and she'll pop out behind you -- your stunned carcass already dangling in one of her <b>nets.</b>",
     "description": "Shackles her enemies to trees",
     "attackType": 2,
+    "primaryAttribute": 1,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/hoodwink.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/hoodwink.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/hoodwink.png",
-    "primaryAttribute": {
-      "id": 1,
-      "name": "Agility",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_agility.png"
-    },
     "abilities": [
       {
         "id": 8429,
@@ -6815,14 +6335,10 @@
     "lore": "Dawnbreaker shines in the heart of battle, happily <b>crushing enemies with her celestial hammer</b> and <b>healing nearby allies</b>. She revels in hurling her hammer through multiple foes and then converging with it in a blazing wake, always waiting to tap her true cosmic power to <b>fly to the aid of her teammates</b> — eager to rout her enemies on the battlefield no matter where they are.",
     "description": "Leaps to aid her allies, wherever they are on the map",
     "attackType": 1,
+    "primaryAttribute": 0,
     "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dawnbreaker.png",
     "video": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dawnbreaker.webm",
     "thumbnail": "https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/dawnbreaker.png",
-    "primaryAttribute": {
-      "id": 0,
-      "name": "Strength",
-      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_strength.png"
-    },
     "abilities": [
       {
         "id": 7902,
