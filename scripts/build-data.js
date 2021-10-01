@@ -23,24 +23,6 @@ async function getHeroDetails(id) {
   return data.result.data.heroes[0]
 }
 
-function parseHeroDetailsAttackType(hero) {
-  const attackTypesName = {
-    1: 'Melee',
-    2: 'Ranged',
-  }
-
-  const id = hero.attack_capability
-  const name = attackTypesName[id]
-
-  return {
-    attackType: {
-      id,
-      name,
-      image: `https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/${name.toLowerCase()}.svg`,
-    },
-  }
-}
-
 function parseHeroDetailsPrimaryAttribute(hero) {
   const primaryAttributesName = {
     0: 'Strength',
@@ -70,6 +52,7 @@ function parseHeroDetailsSummary(hero) {
     bio: hero.bio_loc,
     lore: hero.hype_loc,
     description: hero.npe_desc_loc,
+    attackType: hero.attack_capability,
     image: `https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/${npcId}.png`,
     video: `https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/${npcId}.webm`,
     thumbnail: `https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/${npcId}.png`,
@@ -104,7 +87,6 @@ async function run() {
     const heroDetails = await getHeroDetails(hero.id)
     const parsedHeroDetails = {
       ...parseHeroDetailsSummary(heroDetails),
-      ...parseHeroDetailsAttackType(heroDetails),
       ...parseHeroDetailsPrimaryAttribute(heroDetails),
       ...parseHeroDetailsAbilities(heroDetails),
     }

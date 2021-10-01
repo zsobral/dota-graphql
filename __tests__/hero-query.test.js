@@ -28,6 +28,7 @@ const query = gql`
       image
       video
       thumbnail
+      attackType
       primaryAttribute {
         id
         name
@@ -37,11 +38,6 @@ const query = gql`
         id
         name
         image
-      }
-      attackType {
-        id
-        image
-        name
       }
     }
   }

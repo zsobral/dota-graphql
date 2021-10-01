@@ -21,8 +21,8 @@ const heroType = new GraphQLObjectType({
     image: { type: new GraphQLNonNull(GraphQLString) },
     video: { type: new GraphQLNonNull(GraphQLString) },
     thumbnail: { type: new GraphQLNonNull(GraphQLString) },
-    primaryAttribute: { type: new GraphQLNonNull(primaryAttributeType) },
     attackType: { type: new GraphQLNonNull(attackTypeType) },
+    primaryAttribute: { type: new GraphQLNonNull(primaryAttributeType) },
     abilities: {
       type: new GraphQLNonNull(
         new GraphQLList(new GraphQLNonNull(abilityType))

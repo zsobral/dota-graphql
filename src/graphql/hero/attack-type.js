@@ -1,16 +1,10 @@
-const {
-  GraphQLObjectType,
-  GraphQLNonNull,
-  GraphQLID,
-  GraphQLString,
-} = require('graphql')
+const { GraphQLEnumType } = require('graphql')
 
-const attackTypeType = new GraphQLObjectType({
+var attackTypeType = new GraphQLEnumType({
   name: 'AttackType',
-  fields: {
-    id: { type: new GraphQLNonNull(GraphQLID) },
-    name: { type: new GraphQLNonNull(GraphQLString) },
-    image: { type: new GraphQLNonNull(GraphQLString) },
+  values: {
+    MELEE: { value: 1 },
+    RANGED: { value: 2 },
   },
 })
 
