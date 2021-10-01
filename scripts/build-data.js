@@ -23,25 +23,6 @@ async function getHeroDetails(id) {
   return data.result.data.heroes[0]
 }
 
-function parseHeroDetailsPrimaryAttribute(hero) {
-  const primaryAttributesName = {
-    0: 'Strength',
-    1: 'Agility',
-    2: 'Intelligence',
-  }
-
-  const id = hero.primary_attr
-  const name = primaryAttributesName[id]
-
-  return {
-    primaryAttribute: {
-      id,
-      name,
-      image: `https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/icons/hero_${name.toLowerCase()}.png`,
-    },
-  }
-}
-
 function parseHeroDetailsSummary(hero) {
   const npcId = hero.name.replace('npc_dota_hero_', '')
 
@@ -53,6 +34,7 @@ function parseHeroDetailsSummary(hero) {
     lore: hero.hype_loc,
     description: hero.npe_desc_loc,
     attackType: hero.attack_capability,
+    primaryAttribute: hero.primary_attr,
     image: `https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/${npcId}.png`,
     video: `https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/${npcId}.webm`,
     thumbnail: `https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/${npcId}.png`,
@@ -87,7 +69,6 @@ async function run() {
     const heroDetails = await getHeroDetails(hero.id)
     const parsedHeroDetails = {
       ...parseHeroDetailsSummary(heroDetails),
-      ...parseHeroDetailsPrimaryAttribute(heroDetails),
       ...parseHeroDetailsAbilities(heroDetails),
     }
     output.push(parsedHeroDetails)
