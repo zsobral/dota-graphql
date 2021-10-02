@@ -14,6 +14,10 @@ const itemType = new GraphQLObjectType({
       resolve: (source) => source.dname,
     },
     lore: { type: new GraphQLNonNull(GraphQLString) },
+    image: {
+      type: new GraphQLNonNull(GraphQLString),
+      resolve: (source) => source.img,
+    },
   },
 })
 

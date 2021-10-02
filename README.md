@@ -1,6 +1,6 @@
 # dota-graphql
 
-**Under development**, This api consumes data from https://www.dota2.com/heroes
+**Under development**, This api consumes data from [dota2.com](https://www.dota2.com/heroes) and [opendota.com](https://www.opendota.com/)
 
 ## 🚀 Running
 

@@ -18,6 +18,13 @@ afterAll(async () => {
 })
 
 const query = gql`
+  fragment ItemInfo on Item {
+    id
+    name
+    lore
+    image
+  }
+
   query Hero($input: HeroInput!) {
     hero(input: $input) {
       id
@@ -37,24 +44,16 @@ const query = gql`
       }
       popularItems {
         startGame {
-          id
-          name
-          lore
+          ...ItemInfo
         }
         earlyGame {
-          id
-          name
-          lore
+          ...ItemInfo
         }
         midGame {
-          id
-          name
-          lore
+          ...ItemInfo
         }
         lateGame {
-          id
-          name
-          lore
+          ...ItemInfo
         }
       }
     }
