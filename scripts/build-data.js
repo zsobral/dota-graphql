@@ -103,7 +103,13 @@ async function buildItems() {
   const { data: items } = await openDotaClient.get('/constants/items')
   spinner.succeed('Items fetched')
   const itemsById = Object.fromEntries(
-    Object.values(items).map((item) => [item.id, item])
+    Object.values(items).map((item) => [
+      item.id,
+      {
+        ...item,
+        img: `https://api.opendota.com${item.img}`,
+      },
+    ])
   )
   const output = prettier.format(JSON.stringify(itemsById), { parser: 'json' })
   fs.writeFileSync(filePath, output)

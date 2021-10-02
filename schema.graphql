@@ -40,6 +40,7 @@ type Item {
   id: Int!
   name: String!
   lore: String!
+  image: String!
 }
 
 type Ability {
