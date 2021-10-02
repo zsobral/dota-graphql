@@ -3,11 +3,11 @@ const heroes = require('../../data/heroes.json')
 
 class HeroesDataSource extends DataSource {
   find() {
-    return heroes
+    return Object.values(heroes)
   }
 
   findById(id) {
-    return heroes.find((hero) => hero.id === id)
+    return heroes[id]
   }
 }
 

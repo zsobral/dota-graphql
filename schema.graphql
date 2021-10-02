@@ -14,6 +14,7 @@ type Hero {
   thumbnail: String!
   attackType: AttackType!
   primaryAttribute: PrimaryAttribute!
+  popularItems: PopularItems!
   abilities: [Ability!]!
 }
 
@@ -26,6 +27,19 @@ enum PrimaryAttribute {
   STRENGTH
   AGILITY
   INTELLIGENCE
+}
+
+type PopularItems {
+  startGame: [Item!]!
+  earlyGame: [Item!]!
+  midGame: [Item!]!
+  lateGame: [Item!]!
+}
+
+type Item {
+  id: Int!
+  name: String!
+  lore: String!
 }
 
 type Ability {

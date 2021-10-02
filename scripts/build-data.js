@@ -2,14 +2,17 @@ const fs = require('fs')
 const path = require('path')
 const axios = require('axios')
 const ora = require('ora')
-
-const filePath = path.resolve(__dirname, '../data/heroes.json')
+const prettier = require('prettier')
 
 const dotaClient = axios.create({
   baseURL: 'https://www.dota2.com/datafeed/',
   params: {
     language: 'english',
   },
+})
+
+const openDotaClient = axios.create({
+  baseURL: 'https://api.opendota.com/api/',
 })
 
 async function getHeroes() {
@@ -21,6 +24,17 @@ async function getHeroDetails(id) {
   const params = { hero_id: id }
   const { data } = await dotaClient.get('/herodata', { params })
   return data.result.data.heroes[0]
+}
+
+async function getHeroItemPopularity(heroId) {
+  const { data } = await openDotaClient.get(`/heroes/${heroId}/itemPopularity`)
+
+  return {
+    startGame: Object.keys(data.start_game_items).map(Number),
+    earlyGame: Object.keys(data.early_game_items).map(Number),
+    midGame: Object.keys(data.mid_game_items).map(Number),
+    lateGame: Object.keys(data.late_game_items).map(Number),
+  }
 }
 
 function parseHeroDetailsSummary(hero) {
@@ -58,26 +72,46 @@ function parseHeroDetailsAbilities(hero) {
   }
 }
 
-async function run() {
+async function buildHeroes() {
+  const filePath = path.resolve(__dirname, '../data/heroes.json')
   const spinner = ora('Fetching heroes list').start()
-  const output = []
+  const heroesOutput = []
   const heroes = await getHeroes()
   spinner.succeed(`Fetched ${heroes.length} heroes`)
 
   for (const hero of heroes) {
     spinner.start(`Fetching ${hero.name_loc} details`)
     const heroDetails = await getHeroDetails(hero.id)
+    const heroItemsPopularity = await getHeroItemPopularity(hero.id)
     const parsedHeroDetails = {
       ...parseHeroDetailsSummary(heroDetails),
       ...parseHeroDetailsAbilities(heroDetails),
+      popularItems: heroItemsPopularity,
     }
-    output.push(parsedHeroDetails)
+    heroesOutput.push([hero.id, parsedHeroDetails])
     spinner.succeed(`Fetched ${hero.name_loc} details`)
   }
 
-  spinner.start(`Writing file to ${filePath}`)
-  fs.writeFileSync(filePath, JSON.stringify(output, null, 2))
-  spinner.succeed('Success')
+  const heroesById = Object.fromEntries(heroesOutput)
+  const output = prettier.format(JSON.stringify(heroesById), { parser: 'json' })
+  fs.writeFileSync(filePath, output)
+}
+
+async function buildItems() {
+  const filePath = path.resolve(__dirname, '../data/items.json')
+  const spinner = ora('Fetching items').start()
+  const { data: items } = await openDotaClient.get('/constants/items')
+  spinner.succeed('Items fetched')
+  const itemsById = Object.fromEntries(
+    Object.values(items).map((item) => [item.id, item])
+  )
+  const output = prettier.format(JSON.stringify(itemsById), { parser: 'json' })
+  fs.writeFileSync(filePath, output)
+}
+
+async function run() {
+  await buildHeroes()
+  await buildItems()
 }
 
 run().catch(console.log)

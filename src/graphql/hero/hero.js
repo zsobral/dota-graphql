@@ -6,6 +6,7 @@ const {
   GraphQLInt,
   GraphQLInputObjectType,
 } = require('graphql')
+const { popularItemsType } = require('../item/popular-items')
 const { abilityType } = require('./ability')
 const { attackTypeType } = require('./attack-type')
 const { primaryAttributeType } = require('./primary-attribute')
@@ -23,6 +24,7 @@ const heroType = new GraphQLObjectType({
     thumbnail: { type: new GraphQLNonNull(GraphQLString) },
     attackType: { type: new GraphQLNonNull(attackTypeType) },
     primaryAttribute: { type: new GraphQLNonNull(primaryAttributeType) },
+    popularItems: { type: new GraphQLNonNull(popularItemsType) },
     abilities: {
       type: new GraphQLNonNull(
         new GraphQLList(new GraphQLNonNull(abilityType))
