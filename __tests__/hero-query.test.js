@@ -35,6 +35,28 @@ const query = gql`
         name
         image
       }
+      popularItems {
+        startGame {
+          id
+          name
+          lore
+        }
+        earlyGame {
+          id
+          name
+          lore
+        }
+        midGame {
+          id
+          name
+          lore
+        }
+        lateGame {
+          id
+          name
+          lore
+        }
+      }
     }
   }
 `
